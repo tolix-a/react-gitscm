@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/react-tutorial/static/css/main.e6c982a1.css",
-    "main.js": "/github.io/react-tutorial/static/js/main.573f1a5c.js",
-    "static/js/453.53cb6ab8.chunk.js": "/github.io/react-tutorial/static/js/453.53cb6ab8.chunk.js",
-    "index.html": "/github.io/react-tutorial/index.html",
-    "main.e6c982a1.css.map": "/github.io/react-tutorial/static/css/main.e6c982a1.css.map",
-    "main.573f1a5c.js.map": "/github.io/react-tutorial/static/js/main.573f1a5c.js.map",
-    "453.53cb6ab8.chunk.js.map": "/github.io/react-tutorial/static/js/453.53cb6ab8.chunk.js.map"
+    "main.css": "/react-tutorial/static/css/main.e6c982a1.css",
+    "main.js": "/react-tutorial/static/js/main.726badfe.js",
+    "static/js/453.53cb6ab8.chunk.js": "/react-tutorial/static/js/453.53cb6ab8.chunk.js",
+    "index.html": "/react-tutorial/index.html",
+    "main.e6c982a1.css.map": "/react-tutorial/static/css/main.e6c982a1.css.map",
+    "main.726badfe.js.map": "/react-tutorial/static/js/main.726badfe.js.map",
+    "453.53cb6ab8.chunk.js.map": "/react-tutorial/static/js/453.53cb6ab8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c982a1.css",
-    "static/js/main.573f1a5c.js"
+    "static/js/main.726badfe.js"
   ]
 }
